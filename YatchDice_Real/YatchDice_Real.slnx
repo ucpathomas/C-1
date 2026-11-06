@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="YatchDice_Real.vcxproj" Id="7967d4c2-51ee-49cd-acd7-5dd54d77349d" />
+</Solution>
