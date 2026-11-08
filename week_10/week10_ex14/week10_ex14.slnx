@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="YatchDice_Real.vcxproj" Id="7967d4c2-51ee-49cd-acd7-5dd54d77349d" />
+  <Project Path="week10_ex14/week10_ex14.vcxproj" Id="1477355a-7949-47f2-8143-096fa38dffae" />
 </Solution>
