@@ -15,10 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<<< HEAD:week_12/week12_41-42p/week12_41-42p.vcxproj.filters
     <ClCompile Include="random.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="main.c">
+========
+    <ClCompile Include="week10_ex10.cpp">
+>>>>>>>> d9861ed4c322400d7579a703e56858d0dcbf710c:week_10/week10_ex10/week10_ex10/week10_ex10.vcxproj.filters
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

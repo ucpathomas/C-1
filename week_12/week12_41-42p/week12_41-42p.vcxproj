@@ -21,8 +21,13 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
+<<<<<<<< HEAD:week_12/week12_41-42p/week12_41-42p.vcxproj
     <ProjectGuid>{dc1c2382-0d64-4499-9d0a-a3971a1e3984}</ProjectGuid>
     <RootNamespace>week124142p</RootNamespace>
+========
+    <ProjectGuid>{c7c83481-3c71-4779-9da3-4e73b334f37e}</ProjectGuid>
+    <RootNamespace>week10ex09</RootNamespace>
+>>>>>>>> d9861ed4c322400d7579a703e56858d0dcbf710c:week_10/week10_ex09/week10_ex09/week10_ex09.vcxproj
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,8 +144,12 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<<< HEAD:week_12/week12_41-42p/week12_41-42p.vcxproj
     <ClCompile Include="main.c" />
     <ClCompile Include="random.c" />
+========
+    <ClCompile Include="week10_ex09.cpp" />
+>>>>>>>> d9861ed4c322400d7579a703e56858d0dcbf710c:week_10/week10_ex09/week10_ex09/week10_ex09.vcxproj
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
